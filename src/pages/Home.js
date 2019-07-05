@@ -4,6 +4,7 @@ import Banner from '../components/Banner';
 import {Link} from 'react-router-dom';
 import Services from '../components/Services';
 import FeaturedRooms from '../components/FeaturedRooms';
+import GoogleMap from '../components/GoogleMap';
 
 
 export default function Home() {
@@ -16,6 +17,7 @@ export default function Home() {
         </Hero>
         <Services />
         <FeaturedRooms />
+        <GoogleMap />
         </>
     );
 }

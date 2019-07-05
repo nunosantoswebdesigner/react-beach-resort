@@ -74,3 +74,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 3h: 22m
 
 4h 55 m
+
+
+
+A chave secreta e o ID do cliente sempre podem ser acessados a partir de "Credenciais em APIs e serviços"
+
+
+O OAuth é limitado a 100 logins de escopo sensível antes da publicação da tela de consentimento do OAuth. A publicação pode exigir um processo de verificação que leva vários dias.
+
+
+Este é seu ID do cliente
+299223929587-2cu4pi8rbk3b9sp1qelmq3brdifg8mnr.apps.googleusercontent.com
+
+Esta é sua chave secreta do cliente
+h1bBFUtLhC-GM2drbJvR6hUK
