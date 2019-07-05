@@ -3,10 +3,6 @@ import { GoogleMap, withScriptjs, withGoogleMap, Marker, InfoWindow } from 'reac
 import * as ItemsMaps from '../maps.json'
 import mapStyle from "../mapStyle";
 
-
-// console.log(ItemsMaps.features[0].properties)
-
-
 function Map() {
   const [ selectedItem, setSelectedItem] = useState(null);
 
@@ -24,9 +20,9 @@ function Map() {
   }, []);
   return  (
     <GoogleMap 
-      defaultZoom={10}
-      // defaultCenter={{ lat: 39.432282, lng: -9.217094 }}
-      defaultCenter={{ lat: 45.421532, lng: -75.697189 }}
+      defaultZoom={16}
+      defaultCenter={{ lat: 39.432282, lng: -9.217094 }}
+      // defaultCenter={{ lat: 45.421532, lng: -75.697189 }}
       defaultOptions={{ styles: mapStyle }}
       >
       { ItemsMaps.features.map( mItems => (
@@ -64,7 +60,6 @@ function Map() {
     </GoogleMap>
   );
 }
-
 const WrappedMap = withScriptjs(withGoogleMap(Map));
 
 export default function MyMap() {
