@@ -2,7 +2,7 @@
 
 Links:  
 
-[Demo](https://nunosantoswebdesigner.github.io/react-beach-resort/)
+[Demo](https://foz-do-arelho-rooms.netlify.com)
 [Repo](https://github.com/nunosantoswebdesigner/react-beach-resort)
 
 
