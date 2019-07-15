@@ -1,90 +1,38 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Corrupção no Brasil
 
-## Available Scripts
+Links:  
 
-In the project directory, you can run:
+[Demo](https://nunosantoswebdesigner.github.io/react-beach-resort/)
+[Repo](https://github.com/nunosantoswebdesigner/react-beach-resort)
 
-### `npm start`
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![home](https://github.com/nunosantoswebdesigner/pdfs/blob/gh-pages/images/screen_resort_1.png)
+![menu](https://github.com/nunosantoswebdesigner/pdfs/blob/gh-pages/images/screen_resort_2.png)
+![item](https://github.com/nunosantoswebdesigner/pdfs/blob/gh-pages/images/screen_resort_3.png)
+![item](https://github.com/nunosantoswebdesigner/pdfs/blob/gh-pages/images/screen_resort_4.png)
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Credits
 
-### `npm run build`
+- Create React app [create-react-app](https://facebook.github.io/create-react-app/docs/getting-started)
+- [contentful](https://www.contentful.com/) for CRM content
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## License
+This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## Misc
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Follow Me at:      
+                [Facebook](http://www.facebook.com/nunosantoswebdesigner),     
+                [GitHub](https://github.com/nunosantoswebdesigner),     
+                [Instagram](https://www.instagram.com/nunosantos_webdesignerss/)     
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[© Nuno Santos 2019](https://nuno-santos.netlify.com)
 
 
 
 
 
-3h: 22m
 
-4h 55 m
-
-
-
-A chave secreta e o ID do cliente sempre podem ser acessados a partir de "Credenciais em APIs e serviços"
-
-
-O OAuth é limitado a 100 logins de escopo sensível antes da publicação da tela de consentimento do OAuth. A publicação pode exigir um processo de verificação que leva vários dias.
-
-
-Este é seu ID do cliente
-299223929587-2cu4pi8rbk3b9sp1qelmq3brdifg8mnr.apps.googleusercontent.com
-
-Esta é sua chave secreta do cliente
-h1bBFUtLhC-GM2drbJvR6hUK

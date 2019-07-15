@@ -23,16 +23,16 @@ export default class Navbar extends Component {
                         <li>
                             <Link to="/">Home</Link>
                         </li>
+                        {/* <li>
                             <Link to="/gallery">Gallery</Link>
+                        </li> */}
                         <li>
-                        </li>
                             <Link to="/rooms">Rooms</Link>
-                        <li>
+                        </li>
+                        {/* <li>
                             <Link to="/book">Book</Link>
-                        </li>
-                        <li>
                             <Link to="/contact">Contact</Link>
-                        </li>
+                        </li> */}
                     </ul>
                     <button type="button" className="nav-btn"
                     onClick={this.handleToggle}

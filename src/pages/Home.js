@@ -11,7 +11,7 @@ export default function Home() {
     return (
         <>
         <Hero>
-            <Banner title="Espetaculares Quartos" subtitle="Apartir de 40€ por noite">
+            <Banner title="Foz do Arelho Rooms" subtitle="Since 40€">
                 <Link to='/rooms' className="btn-primary">ver todos</Link>
             </Banner>
         </Hero>
