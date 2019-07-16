@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # React App
+=======
+# Resort App
+>>>>>>> dd2aef9d239008f2584988e2f335e901e1c4de82
 
 Links:  
 
