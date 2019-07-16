@@ -1,4 +1,4 @@
-# Corrupção no Brasil
+# React App
 
 Links:  
 
@@ -26,10 +26,10 @@ This resource can be used freely if integrated or build upon in personal or comm
 Follow Me at:      
                 [Facebook](http://www.facebook.com/nunosantoswebdesigner),     
                 [GitHub](https://github.com/nunosantoswebdesigner),     
-                [Instagram](https://www.instagram.com/nunosantos_webdesignerss/)     
+                [Instagram](https://www.instagram.com/nunosantos_webdesigner)     
 
 
-[© Nuno Santos 2019](https://nuno-santos.netlify.com)
+[© Nuno Santos 2019](https://www.instagram.com/nunosantos_webdesigner)
 
 
 

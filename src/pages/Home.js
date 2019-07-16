@@ -12,7 +12,7 @@ export default function Home() {
         <>
         <Hero>
             <Banner title="Foz do Arelho Rooms" subtitle="Since 40€">
-                <Link to='/rooms' className="btn-primary">ver todos</Link>
+                <Link to='/rooms' className="btn-primary">all rooms</Link>
             </Banner>
         </Hero>
         <Services />
